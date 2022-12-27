@@ -1,0 +1,24 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"cSpell.words": [
+			"arange",
+			"astype",
+			"fftshift",
+			"ifft",
+			"ifftshift",
+			"imread",
+			"imshow",
+			"mpimg",
+			"ndarray",
+			"RAAR",
+			"sharex",
+			"sharey",
+			"suptitle"
+		]
+	}
+}
